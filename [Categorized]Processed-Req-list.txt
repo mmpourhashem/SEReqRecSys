@@ -1,0 +1,124 @@
+a.1.1	better user experience easier use accurate scanning
+a.1.2	better user experience easier use easy see
+a.1.3	better user experience easier use easy reach
+a.1.4	better user experience easier use card convenient likely carried
+a.3.1	better user experience 1 card combine id card session card
+a.3.2	better user experience 1 card combine library card
+a.3.3	better user experience 1 card combine bloomsbury fitness card
+a.3.4	better user experience 1 card combine club society card
+a.3.5	better user experience 1 card compatible nh
+a.3.6	better user experience 1 card combine card many feature dont want become valuable change locker key
+b.1.1	card design card include user detail card include name
+b.1.2	card design card include user detail card include photo
+b.1.3	card design card include user detail card include upi
+b.1.4	card design card include user detail card design include card typeuser status
+b.1.5	card design card include user detail card include payroll number
+b.1.6	card design card include user detail card include job title
+b.1.7	card design card include user detail card include expiry date
+b.1.8	card design card include user detail card include department
+b.1.9	card design card include user detail card include student number
+b.2.1	card design card include barcode easier reading barcode scanner
+b.3.1	card design card secure card easily copied
+b.3.2	card design card secure card feature prevent sharing
+b.3.3	card design card secure card include pin
+b.3.4	card design card secure card multiple security feature
+b.6.1	card design card sturdyrobust card last 5 year
+c	improve security access control ucl enable visual checking
+c.1	ensure appropriate access individual
+c.1.1	improve security access control ucl must stop end last day service
+c.1.2	improve security access control ucl must work last day service
+c.2	control access ucl building
+c.2.1	improve security access control ucl control access ucl building control access department
+c.2.2	improve security access control ucl control access ucl building control access library
+c.2.3	improve security access control ucl control access ucl building control access bloomsbury
+c.2.4	improve security access control ucl control access ucl building access kathleen lonsdale
+c.2.5	improve security access control ucl control access ucl building control access departmental office
+c.2.6	improve security access control ucl control access ucl building control access private office
+c.2.7	improve security access control ucl control access ucl building control access high hazard area
+c.2.8	improve security access control ucl control access ucl building control access computer cluster
+c.2.9	improve security access control ucl control access ucl building control access room
+c.2.10	improve security access control ucl control access ucl building control access exam venue
+c.3.1	improve security access control ucl enable visual checking enable photo visual check
+c.3.2	improve security access control ucl enable visual checking visual checking cardholder role
+c.4.1	improve security access control ucl access control include movement trackinglogsmovement tracking building library
+c.4.2	improve security access control ucl access control include movement trackinglogs movement trackinglogs library
+c.4.3	improve security access control ucl access control include movement trackinglogs enable alumnus tracking
+c.4.4	improve security access control ucl access control include movement trackinglogs use card mark attendance
+c.4.5	improve security access control ucl access control include movement trackinglogs clocking
+c.4.6	improve security access control ucl access control include movement trackinglogs clear policy movement trackinglogs
+c.5.1	improve security access control ucl increase access control building easy install new reader
+d.1.1	improve process faster issue card fast production card
+d.1.2	improve process faster issue card many issue point
+d.2.1	improve process reduce queuing time staff go hr card
+d.2.2	improve process reduce queuing time distance arrangement preparation card
+d.2.3	improve process reduce queuing time appointment system reduce queuing time
+d.4.1	improve process easy replace lost card ucl shop handle lost card
+d.5.1	improve process granting access right view modify access right time access online without card present
+d.5.2	improve process granting access right activate inactivate card
+d.5.3	improve process granting access right rolebased method grant access right
+d.5.4	improve process granting access right close real time update
+d.5.5	reminder access end date
+e.1.1	reduce cost save money card longer require mrm smart card
+e.1.2	reduce cost save money card cheap x 10p item
+e.1.3	reduce cost save money card card reusablerecyclable
+f.2.1	compatible existing administrative system compatible library system compatible library barcode
+f.2.2	compatible existing administrative system compatible library system compatible library management system
+f.4.1	compatible existing administrative system compatible upi map user identity upi including group membership role
+f.6.1	compatible existing administrative system impact system upi
+f.6.2	compatible existing administrative system impact system portico
+f.6.3	compatible existing administrative system impact system interface hr directly
+g.1.1	better data quality centralised management access identification information card must unique id
+g.1.2	better data quality centralised management access identification information data duplicated
+g.2.1	better data quality export data system export data student system
+g.2.2	better data quality export data system export data library access card change leaver barcode
+g.2.3	better data quality export data system export data staff system
+g.3.1	better data quality import data system import data staff student system
+g.3.2	better data quality import data system import photo registry
+g.4.1	better data quality data access able view update delete remotely securely able view data computer
+g.4.2	better data quality data access able view update delete remotely securely updatedelete data
+g.4.3	better data quality data access able view update delete remotely securely enter data
+g.4.4	better data quality data access able view update delete remotely securely authorised access firewall time limitation
+g.4.5	better data quality data access able view update delete remotely securely ensure secure data storage
+h.2.1	extensible future feature include payment mechanism use bank card
+h.2.2	extensible future feature include payment mechanism combine photocopy card
+h.2.3	extensible future feature include payment mechanism used cashless vending
+h.2.4	extensible future feature include payment mechanism oyster card
+h.5.1	extensible future feature increase security thumb reader
+i.1.1	project delivery activity supplier support project delivery activity 5 year minimum
+i.1.2	project delivery activity supplier support support virtual machine environment
+i.1.3	project delivery activity supplier support card reader
+i.1.4	project delivery activity supplier support card printer
+i.2.1	project delivery activity technical document software
+i.2.2	project delivery activity technical document business rule document
+i.2.3	project delivery activity technical document requirement document
+i.2.4	project delivery activity technical document design document
+i.2.5	project delivery activity technical document documented process dependent system
+i.2.6	project delivery activity technical document technical document upi
+i.3.1	project delivery activity project management activity requirement management
+i.3.2	project delivery activity project management activity change management
+i.3.3	project delivery activity project management activity quality management
+i.3.4	project delivery activity project management activity budget management
+i.3.5	project delivery activity project management activity development
+i.3.6	project delivery activity project management activity maintenance
+j.1.1	technical constraint fail safe failure restrict access
+j.1.2	technical constraint fail safe safe case power failure
+j.2.1	technical constraint conform standard legislation technical architecture standard
+j.2.2	technical constraint conform standard legislation management system standard
+j.2.3	technical constraint conform standard legislation security standard
+j.2.4	technical constraint conform standard legislation health safety legislation
+j.3.1	technical constraint technology change existing technology approach
+j.3.2	technical constraint technology smart card technology
+j.3.3	technical constraint technology constrained card solution
+j.3.4	technical constraint technology card printer technology
+j.4.1	technical constraint lifecycle 5 year
+j.5.1	technical constraint reliable antivirus
+j.5.2	technical constraint reliable reliable people open door
+j.5.3	technical constraint reliable software interface
+j.5.4	technical constraint reliable continue operation
+j.5.5	technical constraint reliable secure network
+j.6.1	technical constraint available server software run virtual machine environme
+j.6.2	technical constraint available working without interruption 100 day
+j.6.3	technical constraint available data backup
+j.6.4	technical constraint available switch standby system event hardware fail
+j.7.1	technical constraint network infrastructure cabling
+j.7.2	technical constraint network infrastructure landswitch

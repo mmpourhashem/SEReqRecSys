@@ -1,0 +1,121 @@
+a.1.1 accurate scanning
+a.1.2 easy see
+a.1.3 easy reach
+a.1.4 card convenient likely carried
+a.3.1 combine id card session card
+a.3.2 combine library card
+a.3.3 combine bloomsbury fitness card
+a.3.4 combine club society card
+a.3.5 compatible nh
+a.3.6 combine card many feature dont want become valuable change locker key
+b.1.1 card include name
+b.1.2 card include photo
+b.1.3 card include upi
+b.1.4 card design include card typeuser status
+b.1.5 card include payroll number
+b.1.6 card include job title
+b.1.7 card include expiry date
+b.1.8 card include department
+b.1.9 card include student number
+b.2.1 easier reading barcode scanner
+b.3.1 card easily copied
+b.3.2 card feature prevent sharing
+b.3.3 card include pin
+b.3.4 card multiple security feature
+b.6.1 card last 5 year
+c.1.1 must stop end last day service
+c.1.2 must work last day service
+c.2.1 control access department
+c.2.2 control access library
+c.2.3 control access bloomsbury
+c.2.4 access kathleen lonsdale
+c.2.5 control access departmental office
+c.2.6 control access private office
+c.2.7 control access high hazard area
+c.2.8 control access computer cluster
+c.2.9 control access room
+c.2.10 control access exam venue
+c.3.1 enable photo visual check
+c.3.2 visual checking cardholder role
+c.4.1 movement tracking building library
+c.4.2 movement trackinglogs library
+c.4.3 enable alumnus tracking
+c.4.4 use card mark attendance
+c.4.5 clocking
+c.4.6 clear policy movement trackinglogs
+c.5.1 easy install new reader
+d.1.1 fast production card
+d.1.2 many issue point
+d.2.1 staff go hr card
+d.2.2 distance arrangement preparation card
+d.2.3 appointment system reduce queuing time
+d.4.1 ucl shop handle lost card
+d.5.1 view modify access right time access online without card present
+d.5.2 activate inactivate card
+d.5.3 rolebased method grant access right
+d.5.4 close real time update
+d.5.5 reminder access end date
+e.1.1 longer require mrm smart card
+e.1.2 cheap x 10p item
+e.1.3 card reusablerecyclable
+f.2.1 compatible library barcode
+f.2.2 compatible library management system
+f.4.1 map user identity upi including group membership role
+f.6.1 upi
+f.6.2 portico
+f.6.3 interface hr directly
+g.1.1 card must unique id
+g.1.2 data duplicated
+g.2.1 export data student system
+g.2.2 export data library access card change leaver barcode
+g.2.3 export data staff system
+g.3.1 import data staff student system
+g.3.2 import photo registry
+g.4.1 able view data computer
+g.4.2 updatedelete data
+g.4.3 enter data
+g.4.4 authorised access firewall time limitation
+g.4.5 ensure secure data storage
+h.2.1 use bank card
+h.2.2 combine photocopy card
+h.2.3 used cashless vending
+h.2.4 oyster card
+h.5.1 thumb reader
+i.1.1 5 year minimum
+i.1.2 support virtual machine environment
+i.1.3 card reader
+i.1.4 card printer
+i.2.1 software
+i.2.2 business rule document
+i.2.3 requirement document
+i.2.4 design document
+i.2.5 documented process dependent system
+i.2.6 technical document upi
+i.3.1 requirement management
+i.3.2 change management
+i.3.3 quality management
+i.3.4 budget management
+i.3.5 development
+i.3.6 maintenance
+j.1.1 failure restrict access
+j.1.2 safe case power failure
+j.2.1 technical architecture standard
+j.2.2 management system standard
+j.2.3 security standard
+j.2.4 health safety legislation
+j.3.1 change existing technology approach
+j.3.2 smart card technology
+j.3.3 constrained card solution
+j.3.4 card printer technology
+j.4.1 5 year
+j.5.1 antivirus
+j.5.2 reliable people open door
+j.5.3 software interface
+j.5.4 continue operation
+j.5.5 secure network
+j.6.1 server software run virtual machine environme
+j.6.2 working without interruption 100 day
+j.6.3 data backup
+j.6.4 switch standby system event hardware fail
+j.7.1 cabling
+j.7.2 landswitch
